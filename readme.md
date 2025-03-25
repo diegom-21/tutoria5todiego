@@ -31,4 +31,43 @@ Sigue adelante con determinación. Lo mejor está por venir. 🚀
 - Crecer como persona y profesional para lograr mis objetivos. 🎯
 - Inspirar a otros con mi camino y aprendizajes. 🌟
 
-# tutoria5todiego
+# SEMANA 2
+
+
+# ✍️ Parte 1: Reflexión vocacional
+
+## ¿Qué parte del software me llama más la atención y por qué?
+
+Me gusta el desarrollo frontend porque es muy interesante y divertido crear interefaces amigables y creativas para el usuario ademas de poder hacer muchas cosas.
+
+## ¿Cómo se relacionan mis habilidades con esa área?
+
+Ser creativo y buscar la comodidad de los usuarios y vean paginas mas amigables y atractivas cuanda naveguen en internet.
+
+## ¿Qué me gustaría explorar o probar en los próximos meses?
+
+Aprender mucho mas de react js y next js ademas de react native y flutter a profundidad.
+
+## ¿Qué aprendí de mí mismo/a con el test y el mapa vocacional?
+
+Que tengo la voluntad de aprender mas de lo que tenia pensado y que tengo que superar algunas cosas que me hacen detener.
+
+---
+
+# 🧱 Parte 2: Mapa personal
+
+## 💡 Mapa de fortalezas y pasiones
+
+**Lo que sé hacer bien (habilidades):**  
+- (Ejemplo: html, terminar los trabajos, resolver problemas)
+
+**Lo que disfruto hacer (pasiones):**  
+- (Ejemplo: escuchar musica, jugar videojuegos, ver diseños de paginas web)
+
+**Lo que me gustaría aprender (curiosidades):**  
+- (Ejemplo: desarrollo backend, desarrollo móvil)
+
+🌟 **Áreas del software que más se relacionan:**  
+- (Ejemplo: Frontend)
+
+
